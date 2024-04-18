@@ -1,0 +1,66 @@
+[INFO ] 2024-03-20 08:21:49.626 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-03-20 08:21:58.000 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-03-20 08:31:49.065 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-03-20 08:31:56.175 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-03-20 08:32:21.295 [main] loginStepDef - User navigates to the web URL in firstcry
+[INFO ] 2024-03-20 08:32:26.816 [main] loginStepDef - User click on the Register
+[INFO ] 2024-03-20 08:32:26.816 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-03-20 08:32:26.816 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-03-20 08:32:26.816 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-03-20 08:32:26.816 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-03-20 08:32:26.816 [main] loginStepDef - User goto Search button
+[INFO ] 2024-03-20 08:32:36.569 [main] loginStepDef - User select the product
+[INFO ] 2024-03-20 08:32:38.893 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-03-20 08:32:41.250 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-03-20 08:32:50.876 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-03-20 08:57:00.772 [main] loginStepDef - User navigates to the web URL in firstcry
+[INFO ] 2024-03-20 08:57:07.242 [main] loginStepDef - User click on the Register
+[INFO ] 2024-03-20 08:57:07.243 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-03-20 08:57:07.244 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-03-20 08:57:07.247 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-03-20 08:57:07.248 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-03-20 08:57:07.248 [main] loginStepDef - User goto Search button
+[INFO ] 2024-03-20 08:57:18.006 [main] loginStepDef - User select the product
+[INFO ] 2024-03-20 08:57:20.415 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-03-20 08:57:23.337 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-03-20 08:57:32.943 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-03-20 09:28:50.468 [main] loginStepDef - User navigates to the web URL in firstcry
+[INFO ] 2024-03-20 09:28:53.778 [main] loginStepDef - User click on the Register
+[INFO ] 2024-03-20 09:28:53.778 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-03-20 09:28:53.779 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-03-20 09:28:53.779 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-03-20 09:28:53.779 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-03-20 09:28:53.780 [main] loginStepDef - User goto Search button
+[INFO ] 2024-03-20 09:29:03.168 [main] loginStepDef - User select the product
+[INFO ] 2024-03-20 09:29:05.649 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-03-20 09:29:08.093 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-03-20 13:14:53.498 [main] loginStepDef - User navigates to the web URL in firstcry
+[INFO ] 2024-03-20 13:14:58.797 [main] loginStepDef - User click on the Register
+[INFO ] 2024-03-20 13:14:58.799 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-03-20 13:14:58.799 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-03-20 13:14:58.799 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-03-20 13:14:58.799 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-03-20 13:14:58.799 [main] loginStepDef - User goto Search button
+[INFO ] 2024-03-20 13:15:08.351 [main] loginStepDef - User select the product
+[INFO ] 2024-03-20 13:15:10.793 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-03-20 13:15:13.515 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-03-20 13:15:21.653 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-03-20 13:15:56.894 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-03-20 13:16:04.767 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-03-21 15:22:38.862 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-03-21 15:22:47.597 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-03-21 15:24:13.802 [main] loginStepDef - User navigates to the web URL in firstcry
+[INFO ] 2024-03-21 15:24:18.837 [main] loginStepDef - User click on the Register
+[INFO ] 2024-03-21 15:24:18.837 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-03-21 15:24:18.838 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-03-21 15:24:18.838 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-03-21 15:24:18.839 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-03-21 15:24:18.839 [main] loginStepDef - User goto Search button
+[INFO ] 2024-03-21 15:24:28.526 [main] loginStepDef - User select the product
+[INFO ] 2024-03-21 15:24:31.295 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-03-21 15:24:34.479 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-03-21 15:24:42.987 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-03-22 13:00:02.512 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-03-22 13:00:11.914 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-03-22 13:00:48.962 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-03-22 13:00:57.556 [main] ShortlistFuncSteps - I log in with valid credentials
